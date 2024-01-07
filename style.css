@@ -299,4 +299,101 @@ span{
     position: relative;
 }
 /***------------portfolieo-----------*/
-.
+
+.portfolieoh3{
+    font-size: 24px;
+    font-weight: 300px;
+    color: red;
+    line-height: 1;
+}
+.portfolieoh2{
+    line-height: 1;
+    font-size: 48px;
+    font-weight: 500px;
+    color: #070211;
+    text-transform: capitalize;
+}
+.portfolieop{
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 32px;
+}
+
+.portfolieo{
+    width: 1320px;
+    margin: auto;
+    justify-content: center;
+    text-align:left;
+}
+.portfolieo-img{
+  margin-bottom: 100px;
+}
+.colum1 img{
+ margin: 5px;
+
+
+}
+.colum2 img{
+    margin: 5px;
+}
+.contact{
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    background-color: beige;
+    text-align: center;
+    width: 1320px;
+    height: 616px;
+    border-radius: 10px;
+}
+.amir{
+  
+    width: 150px;
+    height: 150px;
+    align-items: center;
+padding-top: 100px;
+}
+
+.contacth2{
+    align-items: center;
+    font-size: 48px;
+    font-weight: 900px;
+    text-transform: capitalize;
+    color: #070211;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.contactp{
+    font-size: 24px;
+    font-weight: 400px;
+    line-height: 32px;
+    color: #070211;
+}
+.sr{
+width: 438px;
+height: 72px;
+font-size: 25px;
+margin-right: 0px;
+border:0px;
+}
+.se{
+    margin-left: 0px;
+width: 210px;
+height: 72px;
+background-color: #ff0404;
+color: white;
+border-radius: 0px 50px 50px 0px;
+font-size: 24px;
+outline: 5px solid red;
+border: none;
+}
+/*----------------------footer-----------*/
+.footer{
+    height: 609px;
+    width: 1600px;
+    background-color: #100820;
+    
+}
+.footerinfo{
+    display: flex;
+    padding:50px;
+}
