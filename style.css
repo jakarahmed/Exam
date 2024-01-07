@@ -1,0 +1,7 @@
+.hadding-hader{
+    background-image: url('resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: cover;
+    width: 75%;
+    height: 600px;
+}
